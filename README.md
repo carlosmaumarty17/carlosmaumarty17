@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Carlos Martinez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola , Mi nonbre es Carlos Martinez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Developer+with+Ionic+and+Angular;Passionate+about+mobile+apps;Always+learning+new+technologies;Lover+of+clean+code+and+UX;Let’s+build+something+awesome+together!">
@@ -17,12 +17,14 @@
 
 <br><br>
 
-- 🎓 I’m a `Desarrollador Web` con experiencia en `Ionic`, `Angular`, `TypeScript`, y `MySQL`.
-- 📱 Me encanta crear aplicaciones móviles híbridas que ofrecen una gran experiencia al usuario.
-- 💡 Siempre estoy explorando nuevas tecnologías como `NestJS`, `Firebase`, y `Capacitor`.
-- 👨‍💻 He trabajado en varios proyectos de comercio electrónico y apps internas para empresas.
-- 📚 Me encuentro perfeccionando mis habilidades en `arquitectura de software` y `devops`.
-- 💼 Estoy abierto a nuevas oportunidades laborales donde pueda aportar mi experiencia.
+- 🎓 Soy `Desarrollador Web Full Stack` con experiencia en desarrollo frontend y backend.
+- 💻 Manejo tecnologías como `HTML`, `CSS`, `JavaScript`, `Angular`, `Ionic`, `React`, `Node.js`, y `TypeScript`.
+- 🛠️ He trabajado en el desarrollo de aplicaciones web modernas, responsivas y de alto rendimiento.
+- 🧠 Tengo experiencia en el diseño y administración de bases de datos como `MySQL`, `PostgreSQL`, y `SQL Server`.
+- 🔧 Me encanta automatizar procesos, crear APIs RESTful, y trabajar con `NestJS` y `Firebase` para soluciones en tiempo real.
+- 🚀 He participado en proyectos de comercio electrónico, plataformas empresariales y apps híbridas.
+- 📚 Actualmente me sigo formando en temas como `arquitectura de software`, `DevOps`, y `testing automatizado`.
+- 💼 Estoy abierto a nuevas oportunidades profesionales donde pueda aportar mis conocimientos y seguir creciendo.
 - 📄 Aquí puedes ver [MI CV](https://drive.google.com/file/d/1WPmAMHa4a1zL5mKG-bX681ycEKDZmN5m/view).
 - 🌐 También puedes visitar [MI WEB PERSONAL](https://carlos-mauricio-martinez-perez.netlify.app/)
 <br>
