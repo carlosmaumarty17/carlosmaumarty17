@@ -24,7 +24,7 @@
 - 📚 Me encuentro perfeccionando mis habilidades en `arquitectura de software` y `devops`.
 - 💼 Estoy abierto a nuevas oportunidades laborales donde pueda aportar mi experiencia.
 - 📄 Aquí puedes ver [MI CV](https://drive.google.com/file/d/1WPmAMHa4a1zL5mKG-bX681ycEKDZmN5m/view).
-- 🌐 También puedes visitar [MI WEB PERSONAL](https://app.netlify.com/projects/carlos-mauricio-martinez-perez/overview)
+- 🌐 También puedes visitar [MI WEB PERSONAL](https://carlos-mauricio-martinez-perez.netlify.app/)
 <br>
 
 
