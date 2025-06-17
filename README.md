@@ -26,7 +26,7 @@
 - 📚 Actualmente me sigo formando en temas como `arquitectura de software`, `DevOps`, y `testing automatizado`.
 - 💼 Estoy abierto a nuevas oportunidades profesionales donde pueda aportar mis conocimientos y seguir creciendo.
 - 📄 Aquí puedes ver [MI CV](https://drive.google.com/file/d/1WPmAMHa4a1zL5mKG-bX681ycEKDZmN5m/view).
-- 🌐 También puedes visitar [MI WEB PERSONAL](https://portafolio-carlos-martinez-2025.netlify.app/)
+- 🌐 También puedes visitar [MI WEB PERSONAL](https://portafolio-cms-carlos.infinityfreeapp.com/)
 <br>
 
 
